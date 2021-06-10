@@ -1,0 +1,2 @@
+# statics
+Basic statics concepts
